@@ -1,5 +1,5 @@
 
-# Seed_Classification
+# Wheat Kernel Classification
 
 three different varieties of wheat: Kama, Rosa and Canadian, 70 elements each, randomly selected for the experiment. High quality visualization of the internal kernel structure was detected using a soft X-ray technique.
 
